@@ -1,0 +1,3 @@
+[submodule "pga-tour-stats-app"]
+	path = pga-tour-stats-app
+	url = https://github.com/zachgoll/pga-tour-stats-app.git
